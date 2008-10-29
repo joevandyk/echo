@@ -1,0 +1,30 @@
+<ClipRanges xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<ClipRange>
+  		<DublinCore>
+    		<Date xsi:nil="true" />
+  		</DublinCore>
+  		<InPoint>0</InPoint>
+  		<OutPoint>1000</OutPoint>
+	</ClipRange>
+	<ClipRange>
+  		<DublinCore>
+    		<Date xsi:nil="true" />
+  		</DublinCore>
+  		<InPoint>3000</InPoint>
+  		<OutPoint>50100</OutPoint>
+	</ClipRange>
+	<ClipRange>
+  		<DublinCore>
+    		<Date xsi:nil="true" />
+  		</DublinCore>
+  		<InPoint>40000</InPoint>
+  		<OutPoint>70100</OutPoint>
+	</ClipRange>
+	<ClipRange>
+  		<DublinCore>
+    		<Date xsi:nil="true" />
+  		</DublinCore>
+  		<InPoint>81000</InPoint>
+  		<OutPoint>90100</OutPoint>
+	</ClipRange>
+</ClipRanges>
